@@ -1,0 +1,4 @@
+{
+  "tipo": "Ruido excesivo",
+  "descripcion": "Vecinos reportan música a alto volumen después de las 11 p.m. en la calle principal."
+}

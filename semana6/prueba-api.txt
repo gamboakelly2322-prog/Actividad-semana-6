@@ -1,0 +1,2 @@
+El servidor respondió con un objeto JSON que confirma la recepción: {"estado": "Datos recibidos", "nombre": "Maria", "mensaje": "Hola comunidad"}.
+Esto sucede porque el middleware express.json() parsea el cuerpo de la petición y lo deja disponible en req.body.
